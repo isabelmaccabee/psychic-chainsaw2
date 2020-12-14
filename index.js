@@ -1,1 +1,1 @@
-// to-DOING: create psychic chainsaw 2
+// to-do: create all psychic tools required
