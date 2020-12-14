@@ -1,1 +1,3 @@
-# psychic-chainsaw2
+# psychic-workshop
+
+I am a README - fear me!
